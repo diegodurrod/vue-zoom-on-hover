@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Intera/vue-zoom-on-hover.git"
+    "url": "git+https://github.com/diegodurrod/vue-zoom-on-hover.git"
   },
   "author": "Julian Kalbhenn",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Intera/vue-zoom-on-hover/issues"
+    "url": "https://github.com/diegodurrod/vue-zoom-on-hover/issues"
   },
-  "homepage": "https://github.com/Intera/vue-zoom-on-hover#readme"
+  "homepage": "https://github.com/diegodurrod/vue-zoom-on-hover#readme"
 }
